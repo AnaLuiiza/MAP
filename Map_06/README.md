@@ -1,0 +1,1 @@
+Sim. O builder deixou o codigo mais simples. Pois quando iremos fazer contruções complexas é necessário fazer por parte, assim o builder vem a ser um facilitador para a construção do complexo. A implementação mais extencivel é abstract factory, pelo simples fato de ter uam implementação mais extensa
